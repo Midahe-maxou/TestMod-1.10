@@ -1,0 +1,12 @@
+item.basicalItem.name=§bItem basic
+tile.basicalBlock.name=§4Block Basic
+item.itemMeta1.name=§8Donnée §aD'item
+item.itemMeta2.name=§8Donnée §aD'item
+item.itemMeta3.name=§8Donnée §aD'item
+item.stoneHelmet.name=§7Casque en pierre
+item.stoneChest.name=§7Plastron en pierre
+item.stoneLeggings.name=§7Pantalon en pierre
+item.stoneBoots.name=§7Bottes en pierre
+
+
+itemGroup.Mod=Mod

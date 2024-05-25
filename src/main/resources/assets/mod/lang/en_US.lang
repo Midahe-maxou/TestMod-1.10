@@ -1,0 +1,16 @@
+item.basicalItem.name=§bBasical item
+tile.basicalBlock.name=§4Basical Block
+item.itemMeta1.name=§aItem §8Meta
+item.itemMeta2.name=§aItem §8Meta
+item.itemMeta3.name=§aItem §8Meta
+item.fuckingFood.name=§1Fucking Food
+item.stoneHelmet.name=§7Stone helmet
+item.stoneChest.name=§7Stone chestplate
+item.stoneLeggings.name=§7Stone leggings
+item.stoneBoots.name=§7Stone boots
+
+itemGroup.Mod=Mod
+
+
+menu.singleplayer=§4Solo maggle
+menu.multiplayer=§4On est à 4 dessus
